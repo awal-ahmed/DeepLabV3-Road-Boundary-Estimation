@@ -9,16 +9,16 @@ To use Combined_’models_with_loss_function_and_weight_options’ download or c
 Then update IMG_PATH, MASK_PATH, IMG_SUB_PATH, MASK_SUB_PATH, ONEHOT_MASK according to your file structure.
 
 If the folder structure of the dataset is like this:
-D:.
-|---final dataset
-|   +---mask
-|   |   \---mask
-|   +---test Image
-|   +---test one hot
-|   +---train Image
-|   |   \---Image
-|   +---train One hot
-|   |   \---train One hot
+D:.<br />
+|---final dataset<br />
+|&emsp;|---mask<br />
+|&emsp;|&emsp;|---mask<br />
+|&emsp;|---test Image<br />
+|&emsp;|---test one hot<br />
+|&emsp;|---train Image<br />
+|&emsp;|&emsp;|---Image<br />
+|&emsp;|---train One hot<br />
+|&emsp;|&emsp;|---train One hot<br />
 
 
-[This paper](https://ieeexplore.ieee.org/document/9521544) might help you to understand this repository.
+[This paper](https://ieeexplore.ieee.org/document/9521544) might be helpful for understanding this repository.
