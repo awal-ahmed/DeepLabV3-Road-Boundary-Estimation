@@ -23,7 +23,9 @@ D:.<br />
 Then the path veriables should be:
 IMG_PATH = /final dataset/train Image/<br> 
 MASK_PATH = /final dataset/mask/<br>
-IMG_SUB_PATH = /final dataset/train Image/Image/&emsp;&emsp;#training image<br> 
-MASK_SUB_PATH = /final dataset/train One hot/One hot/&emsp;&emsp;#Actually segment label<br> 
-ONEHOT_MASK = /final dataset/mask/mask&emsp;&emsp;&emsp;&emsp;#Here segmented label will be stored after preprocessing<br>
+IMG_SUB_PATH = /final dataset/train Image/Image/&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;#training image<br> 
+MASK_SUB_PATH = /final dataset/train One hot/One hot/&emsp;&emsp;&emsp;#Actually segment label<br> 
+ONEHOT_MASK = /final dataset/mask/mask&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;#Here segmented label will be stored after preprocessing<br>
+
+
 [This paper](https://ieeexplore.ieee.org/document/9521544) might be helpful for understanding this repository.
