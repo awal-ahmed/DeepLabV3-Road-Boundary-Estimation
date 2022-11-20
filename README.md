@@ -29,3 +29,17 @@ ONEHOT_MASK = /final dataset/mask/mask&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 
 [This paper](https://ieeexplore.ieee.org/document/9521544) might be helpful for understanding this repository.
+
+If you find this repository and paper helpful, we would appreciate using the following citations:
+
+```
+@article{das2021estimation,
+  title={Estimation of road boundary for intelligent vehicles based on deepLabV3+ architecture},
+  author={Das, Sunanda and Fime, Awal Ahmed and Siddique, Nazmul and Hashem, MMA},
+  journal={IEEE Access},
+  volume={9},
+  pages={121060--121075},
+  year={2021},
+  publisher={IEEE}
+}
+```
